@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web crawler designed to monitor tweets from a specific Twitter/X influencer, such as Elon Musk. The crawler logs into Twitter, navigates to the influencer's page, and retrieves the latest tweet's URL and content. The project uses Selenium WebDriver for automation and interaction with the web page.
+This project is a web crawler designed to monitor tweets/replies from a specific Twitter/X influencer, such as Elon Musk. The crawler logs into Twitter, navigates to the influencer's page, and retrieves the latest tweet's URL and content. The project uses Selenium WebDriver for automation and interaction with the web page.
 
 ## Features
 
@@ -25,10 +25,10 @@ This project is a web crawler designed to monitor tweets from a specific Twitter
    
 2. **Download ChromeDriver:**
    
-   Download the version of ChromeDriver that matches your Chrome browser version from here.
+   Download the version of [ChromeDriver]("https://developer.chrome.com/docs/chromedriver/downloads") that matches your Chrome browser version from here.
    Add the ChromeDriver executable to your system PATH or specify its location in your script.
 
-4. **Clone the Repository:**
+3. **Clone the Repository:**
    ```
    https://github.com/jesse980107/X.git
 ## Usage
@@ -39,3 +39,4 @@ This project is a web crawler designed to monitor tweets from a specific Twitter
 2. **Run the Script:**
    ```
    python twitter_monitor.py
+    
