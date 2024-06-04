@@ -25,7 +25,7 @@ This project is a web crawler designed to monitor tweets/replies from a specific
    
 2. **Download ChromeDriver:**
    
-   Download the version of [ChromeDriver]("https://developer.chrome.com/docs/chromedriver/downloads") that matches your Chrome browser version from here.
+   Download the version of [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads) that matches your Chrome browser version from here.
    Add the ChromeDriver executable to your system PATH or specify its location in your script.
 
 3. **Clone the Repository:**
