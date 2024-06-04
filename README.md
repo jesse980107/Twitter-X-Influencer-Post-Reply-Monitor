@@ -22,3 +22,20 @@ This project is a web crawler designed to monitor tweets from a specific Twitter
 1. **Install Selenium:**
    ```sh
    pip install selenium
+   
+2. **Download ChromeDriver:**
+   
+   Download the version of ChromeDriver that matches your Chrome browser version from here.
+   Add the ChromeDriver executable to your system PATH or specify its location in your script.
+
+4. **Clone the Repository:**
+   ```
+   https://github.com/jesse980107/X.git
+## Usage
+1. **Update Credentials:**
+   
+   Replace username_value and password_value with your Twitter credentials in the script.
+
+2. **Run the Script:**
+   ```
+   python twitter_monitor.py
