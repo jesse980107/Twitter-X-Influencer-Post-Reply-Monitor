@@ -6,10 +6,12 @@ This project is a web crawler designed to monitor tweets/replies from a specific
 
 ## Features
 
+- Uses ChromeDriver to open a headless window
 - Automated login to Twitter
 - Navigation to a specified Twitter influencer's page
 - Retrieval of the latest tweet's URL and content
 - Detection of changes in tweets to identify new posts
+- Extracts the information of new post/reply and pushes it to WeChat bot via API
 
 ## Prerequisites
 
